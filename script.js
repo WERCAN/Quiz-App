@@ -1,10 +1,10 @@
 const quizData = [{
-        question: "What's the Bebus?",
-        a: "ekmek",
-        b: "corba",
-        c: "Mervis",
-        d: "Kasik",
-        correct: "c",
+        question: "ICT is the acronym for:",
+        a: " Internet and Computer Technology",
+        b: " Internet and Contant Technologycorba",
+        c: " Internet and Computer Transfer",
+        d: " Information and Communication Technology",
+        correct: "a",
     }, {
         question: "What's the most used programing language in 2019?",
         a: "Java",
@@ -14,11 +14,11 @@ const quizData = [{
         correct: "d",
     },
     {
-        question: "Who is the President of BebusLand?",
-        a: "Ms Mervis",
-        b: "kedi",
-        c: "civciv",
-        d: "domates",
+        question: "Which one of the following describes RAM (Random Access Memory)?",
+        a: "RAM is read-and-write memory",
+        b: "RAM is write-only memory",
+        c: "RAM is a peripheral",
+        d: "RAM cannot be changed",
         correct: "a",
     },
     {
